@@ -1,7 +1,7 @@
 TUTORIALES-JSON
 ===============
 
-Repositorio de la serie de tutoriales [JSON][2] de Geeky Theory creados por [Alejandro Esquiva][1]
+Repositorio de la serie de tutoriales [JSON][2] de [Geeky Theory][3] creados por [Alejandro Esquiva][1]
 
 Cuando todos nos iniciamos en el mundo de la programación web llegamos a un punto en el que necesitamos gestionar de forma sencilla y eficaz mucha información. Para los que no os suene el nombre de JSON, enhorabuena porque con esta serie de tutoriales vais a dar un gran paso en vuestro aprendizaje.
 
@@ -47,3 +47,4 @@ Este repositorio contiene los códigos empleados en los tutoriales creados en @G
 
 [1]: https://github.com/aesquiva
 [2]: http://geekytheory.com/category/geeky-theory-2/tutoriales-2/programacion-web/json/
+[3]: http://geekytheory.com/
