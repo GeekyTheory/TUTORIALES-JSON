@@ -1,7 +1,7 @@
 TUTORIALES-JSON
 ===============
 
-Repositorio de la serie de tutoriales JSON de Geeky Theory
+Repositorio de la serie de tutoriales [JSON][2] de Geeky Theory creados por [Alejandro Esquiva][1]
 
 Cuando todos nos iniciamos en el mundo de la programación web llegamos a un punto en el que necesitamos gestionar de forma sencilla y eficaz mucha información. Para los que no os suene el nombre de JSON, enhorabuena porque con esta serie de tutoriales vais a dar un gran paso en vuestro aprendizaje.
 
@@ -25,6 +25,25 @@ JSON (JavaScript Object Notation) es un formato para el intercambios de datos, b
 
 Este repositorio contiene los códigos empleados en los tutoriales creados en @GeekyTheory, para ver estos tutoriales pulsar sobre el siguiente enlace:
 
-ENLACE A LOS TUTORIALES en GEEKY THEORY 
+[ENLACE A LOS TUTORIALES en GEEKY THEORY][2]
 
-http://geekytheory.com/category/geeky-theory-2/tutoriales-2/programacion-web/json/
+###License
+
+    Copyright 2013 GeekyTheory (Alejandro Esquiva)
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+	
+
+
+[1]: https://github.com/aesquiva
+[2]: http://geekytheory.com/category/geeky-theory-2/tutoriales-2/programacion-web/json/
